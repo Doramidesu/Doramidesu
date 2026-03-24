@@ -25,7 +25,7 @@ I'm a **web developer learner** who enjoys building real projects and learning s
 Web-based laundry management application built with Laravel.  
 👉 https://github.com/Doramidesu/aplikasi-laundry-laravel
 
-🔹 **Aplikasi Laundry Laravel**
+🔹 **Support Ticket System**
 👉 https://github.com/Doramidesu/support-ticket-system
 ---
 
