@@ -25,7 +25,8 @@ I'm a **web developer learner** who enjoys building real projects and learning s
 Web-based laundry management application built with Laravel.  
 👉 https://github.com/Doramidesu/aplikasi-laundry-laravel
 
-🔹 **Support Ticket System**
+# Support Ticket System
+Fullstack helpdesk system featuring ticket management, WhatsApp bot integration, and admin dashboard.
 👉 https://github.com/Doramidesu/support-ticket-system
 ---
 
