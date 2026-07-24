@@ -19,6 +19,7 @@ I'm a **web developer learner** who enjoys building real projects and learning s
 * MySQL
 * Blade Template
 * HTML & CSS
+* Java Script
 
 ---
 
