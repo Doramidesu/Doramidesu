@@ -38,6 +38,13 @@ Fullstack helpdesk system with ticket management, WhatsApp bot integration, and 
 
 ---
 
+### 🔹 Doramidesu-CLI
+
+Build modern web projects with confidence using a beginner-friendly CLI.
+ https://github.com/Doramidesu/doramidesu-cli
+
+ ---
+
 ## 📈 GitHub Journey
 
 Still learning, still improving.
